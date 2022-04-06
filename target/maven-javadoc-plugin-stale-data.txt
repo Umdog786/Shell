@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'/home/ntu-user/.m2/repository/com/opencsv/opencsv/5.6/opencsv-5.6.jar:/home/ntu-user/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar:/home/ntu-user/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar:/home/ntu-user/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar:/home/ntu-user/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/ntu-user/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar:/home/ntu-user/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/home/ntu-user/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/ntu-user/IdeaProjects/SS Coursework/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SSProject 1.0 API'
+-use
+-version
+-windowtitle
+'SSProject 1.0 API'
+com.mycompany.ssproject
+/home/ntu-user/.m2/repository/com/opencsv/opencsv/5.6/opencsv-5.6.jar = 1647864439532
+/home/ntu-user/.m2/repository/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar = 1647864439836
+/home/ntu-user/.m2/repository/org/apache/commons/commons-text/1.9/commons-text-1.9.jar = 1647864439628
+/home/ntu-user/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar = 1647864439620
+/home/ntu-user/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar = 1647864439696
+/home/ntu-user/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar = 1647864440016
+/home/ntu-user/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar = 1647864440060
+/home/ntu-user/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar = 1647864439892
+/home/ntu-user/IdeaProjects/SS Coursework/src/main/java = 1648898064210
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/member-search-index.js = 1648995865507
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/type-search-index.js = 1648995865507
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/allpackages-index.html = 1648995865499
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/jquery-ui.overrides.css = 1648995865607
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/stylesheet.css = 1648995865591
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/package-search-index.js = 1648995865503
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/script.js = 1648995865591
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/tag-search-index.js = 1648995865515
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/allclasses-index.html = 1648995865491
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/index-all.html = 1648995865575
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/module-search-index.js = 1648995865503
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/overview-tree.html = 1648995865475
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/search.js = 1648995865599
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/index.html = 1648995865575
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/help-doc.html = 1648995865587
+/home/ntu-user/IdeaProjects/SS Coursework/target/site/apidocs/element-list = 1648995865427
